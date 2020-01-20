@@ -1,0 +1,81 @@
+Metric Name,Metric Type,Benchmark type
+Interface Quality,Quality,Analytical
+Memory usage,Performance,Analytical
+CPU,Performance,Analytical
+I/O,Performance,Analytical
+CPU ,Performance,Measurement
+Latency,Performance,Measurement
+Failure Rate,Availability/Faul tolerance,Measurement
+Transaction Success Rate,Performance,Measurement
+Error Rate,Availability/Faul tolerance,Measurement
+Throughput,Performance,Measurement
+Latency,Performance,Measurement
+Latency,Performance,Measurement
+CPU,Performance,Measurement
+Latency,Performance,Measurement
+Throughput,Performance,Measurement
+Network,Performance,Measurement
+CPU,Performance,Measurement
+Network,Performance,Measurement
+I/O,Performance,Measurement
+Network,Performance,Measurement
+Memory usage,Performance,Measurement
+Throughput,Performance,Measurement
+Network,Performance,Measurement
+Coupling,Quality,Analytical
+Cohesion,Quality,Analytical
+Complexity,Quality,Analytical
+Security,Security,Analytical
+Interface Quality,Quality,Analytical
+Resilience,Availability/Faul tolerance,Measurement
+Latency,Performance,Measurement
+Network,Performance,Measurement
+Throughput,Performance,Measurement
+Latency,Performance,Measurement
+Scalability,Scalability,Measurement
+Consolidation,Scalability,Measurement
+CPU,Performance,Measurement
+Memory usage,Performance,Measurement
+Error Rate,Availability/Faul tolerance,Measurement
+Latency,Performance,Measurement
+Code metrics,Quality,Analytical + Measure
+CPU,Performance,Measurement
+Memory usage,Performance,Measurement
+I/O,Performance,Measurement
+Throughput,Performance,Measurement
+Throughput,Performance,Measurement
+Scalability,Scalability,Measurement
+Latency,Performance,Measurement
+Latency,Performance,Measurement
+Throughput,Performance,Measurement
+CPU,Performance,Measurement
+CPU,Performance,Measurement
+Network,Performance,Measurement
+CPU,Performance,Measurement
+Network,Performance,Measurement
+I/O,Performance,Measurement
+Scalability,Scalability,Measurement
+Quality index,Quality,Analytical
+CPU,Performance,Measurement
+Memory usage,Performance,Measurement
+I/O,Performance,Measurement
+Consistency,Consistency,Measurement
+Scalability,Scalability,Measurement
+Vulnerabilities,Security,Measurement
+Changability,Quality,Analytical + Measure
+Security Score,Security,Analytical + Measure
+Performance,Performance,Measurement
+Cost,Cost,Measurement
+Reliability,Availability/Faul tolerance,Measurement
+Latency,Performance,Measurement
+Performance,Performance,Measurement
+Resilience,Availability/Faul tolerance,Measurement
+Throughput,Performance,Measurement
+Latency,Performance,Measurement
+Mean Time Between Failures,Availability/Faul tolerance,Measurement
+Uptime,Availability/Faul tolerance,Measurement
+Staleness,Data Consistency,Measurement
+Ordering,Data Consistency,Measurement
+Scalability,Scalability,Measurement
+Elasticity,Scalability,Measurement
+Hardware level analysis,Performance,Measurement
